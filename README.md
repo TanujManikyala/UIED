@@ -22,7 +22,7 @@ UIED comprises two parts to detect UI text and graphic elements, such as button,
 
 > UIED is highly customizable, you can replace both parts by your choice (e.g. other text detection approaches). Unlike black-box end-to-end deep learning approach, you can revise the algorithms in the non-text detection and merging (partially or entirely) easily to fit your task.
 
-![UIED Approach](https://github.com/TanujManikyala/UIED/blob/master/data/demo/approach.png)
+![UIED Approach](https://github.com/TanujManikyala/UIED/blob/main/data/demo/approach.png)
 
 ## How to use?
 
@@ -77,4 +77,4 @@ The major detection algorithms are in ``detect_compo/``, ``detect_text/`` and ``
 ## Demo
 GUI element detection result for web screenshot
  
-![UI Components detection result](https://github.com/TanujManikyala/UIED/blob/master/data/demo/demo.png)
+![UI Components detection result](https://github.com/TanujManikyala/UIED/blob/main/data/demo/demo.png)
